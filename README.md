@@ -20,7 +20,7 @@
 * [Video 7]( )
 * [Video 8]( )
 
-Tópico 3 - Limiarização manual acessando pixel a pixel
+## Tópico 3 - Limiarização manual acessando pixel a pixel
 * [Video 1]( )
 * [Video 2]( )
 * [Video 3]( )
@@ -52,7 +52,7 @@ Tópico 3 - Limiarização manual acessando pixel a pixel
 * [Video 7]( )
 * [Video 8]( )
 
-Tópico 6 - cálculo e visualização do histograma usando funções prontas
+## Tópico 6 - cálculo e visualização do histograma usando funções prontas
 * [Video 1]( )
 * [Video 2]( )
 * [Video 3]( )
